@@ -1,0 +1,1 @@
+python3 cnf.py "$1"
